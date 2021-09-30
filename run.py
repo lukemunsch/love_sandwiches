@@ -127,5 +127,3 @@ def main():
 
 print("welcome to Love Sandwiches Data Autmoation!\n")
 main()
-
-
