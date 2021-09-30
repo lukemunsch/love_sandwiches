@@ -29,6 +29,8 @@ def get_sales_data():
             print("Data is Valid!")
             break
 
+    return sales_data
+
 def validate_data(values):
     """
     Inside our try, converts all string values to integers
